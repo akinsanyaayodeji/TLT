@@ -1,0 +1,12 @@
+.container {
+  padding-top: 30px;
+}
+.navbar-brand {
+  font-size: 1.5em;
+}
+.row {
+  gap: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
